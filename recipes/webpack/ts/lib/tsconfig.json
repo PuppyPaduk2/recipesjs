@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "noEmit": false,
+    "declaration": true,
+    "resolveJsonModule": true,
+    "baseUrl": "./src",
+    "outDir": "./dist"
+  },
+  "exclude": ["node_modules"]
+}
