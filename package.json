@@ -1,0 +1,26 @@
+{
+  "name": "recipesjs",
+  "version": "0.0.1",
+  "description": "Recipes for js, ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgenyiFedotov/recipesjs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EvgenyiFedotov/recipesjs/issues"
+  },
+  "homepage": "https://github.com/EvgenyiFedotov/recipesjs#readme",
+  "bin": {
+    "rj": "./cli/rj.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^9.0.0"
+  }
+}
